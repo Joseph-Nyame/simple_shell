@@ -2,7 +2,7 @@
 
 .SH NAME
 .B simple_shell
-- Simple shell create in C to interact with a linux operating system.
+- Simple shell createion in C to interact with a linux operating system.
 
 .SH SYNOPSIS
  hsh [options] [file]
@@ -21,7 +21,7 @@ Always 0 for success, other number means failure.
 
 .SH PATH
 
-It will look inside al directions in PATH env variable for executable.
+It will look inside all directions in PATH env variable for executable.
 
 .SH
 
@@ -40,4 +40,4 @@ Single space required after argument.
 
 
 .SH AUTHOR
-Nchor Michael Adingo, Abbey Emmanuel.
+Danquah Joseph Nyame
